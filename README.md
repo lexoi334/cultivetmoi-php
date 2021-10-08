@@ -5,10 +5,10 @@ partie php de mon projet perso
 
 **Fonctionnalités présentes**
 
-1 Utilisation du CRUD
-2 Sanitize des inputs
-3 Fonctions de sécurité : JWT & Hash
-4 Utilisation de la POO
+1. Utilisation du CRUD
+2. Sanitize des inputs
+3. Fonctions de sécurité : JWT & Hash
+4. Utilisation de la POO
 
 ***Améliorations à venir***
 
